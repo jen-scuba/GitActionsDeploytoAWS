@@ -1,3 +1,8 @@
+Blog source for this exercise
+https://aws.amazon.com/blogs/devops/integrating-with-github-actions-ci-cd-pipeline-to-deploy-a-web-app-to-amazon-ec2/#:~:text=OIDC%20lets%20your%20GitHub%20Actions,repository%2C%20under%20Settings%20%3E%20Secrets.
+
+
+Updates to the section as originally presented see * 
 The following commands will help make sure that your remote repository points to your personal GitHub repository.
 
 git remote remove origin
@@ -8,4 +13,7 @@ git branch -M main
 
 git push -u origin main
 
-git remote set-url origin https://jen-scuba@github.com/jen-scuba/GitActionsDeploytoAWS.git
+* git remote set-url origin https://jen-scuba@github.com/jen-scuba/GitActionsDeploytoAWS.git
+
+
+* update Thumbprint in aws OpenID Connect from OIDC provider (GitHub) https://github.blog/changelog/2023-06-27-github-actions-update-on-oidc-integration-with-aws/ in 
