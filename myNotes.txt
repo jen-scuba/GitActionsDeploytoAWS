@@ -1,5 +1,5 @@
 Blog source for this exercise
-https://aws.amazon.com/blogs/devops/integrating-with-github-actions-ci-cd-pipeline-to-deploy-a-web-app-to-amazon-ec2/#:~:text=OIDC%20lets%20your%20GitHub%20Actions,repository%2C%20under%20Settings%20%3E%20Secrets.
+https://aws.amazon.com/blogs/devops/integrating-with-github-actions-ci-cd-pipeline-to-deploy-a-web-app-to-amazon-ec2
 
 
 Updates to the section as originally presented see * 
